@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DrawableEdt.iml" filepath="$PROJECT_DIR$/DrawableEdt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Drawable-EditText.iml" filepath="$PROJECT_DIR$/Drawable-EditText.iml" />
+      <module fileurl="file://E:\Android\Working\AndroidStudio_Git\Drawable-EditText\DrawableEdt.iml" filepath="E:\Android\Working\AndroidStudio_Git\Drawable-EditText\DrawableEdt.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\Android\Working\AndroidStudio_Git\Drawable-EditText\app\app.iml" filepath="E:\Android\Working\AndroidStudio_Git\Drawable-EditText\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/drawable-edittext/drawable-edittext.iml" filepath="$PROJECT_DIR$/drawable-edittext/drawable-edittext.iml" />
+      <module fileurl="file://E:\Android\Working\AndroidStudio_Git\Drawable-EditText\drawable-edittext\drawable-edittext.iml" filepath="E:\Android\Working\AndroidStudio_Git\Drawable-EditText\drawable-edittext\drawable-edittext.iml" />
     </modules>
   </component>
 </project>
